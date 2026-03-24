@@ -1,0 +1,34 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Усманов Асадбек Отабекочи
+  given: Асадбек
+  family: Усманов
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+status:
+  icon: "☕️"
+role: Студент Российского Университета Дружбы Народов имени Патриса Лумумбы
+bio: |
+ Студент из Узбекистана. Обучающийся в РУДН по направлению "Компьютерные науки"
+
+affiliations:
+  - name: RUDN
+    url: https://www.rudn.ru/
+
+links:
+  - icon: brands/github
+    url: https://github.com/nickghost13/
+
+interests:
+  - Программирование на C++/Python
+  - Разработка игр
+  - Системное администратирование
+  - Работа с ИИ
+
+education:
+  - degree: Бакалавриат 
+    institution: Университет Дружбы Народов
+    start: 2025-09-01
+    end: 2029-06-30
